@@ -1,0 +1,8 @@
+# proxy config
+
+# Defines the port of the proxy
+port 8888 
+
+# A list of blocked URLS goes here
+block www.nytimes.com
+block www.facebook.com
